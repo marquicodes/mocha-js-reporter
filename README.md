@@ -1,5 +1,5 @@
 # Mocha JS Reporter
-> send JSON results of a karma test to a callback function
+> send JSON results of a mocha test to a callback function
 
 ## Usage
 ### Install the reporter
